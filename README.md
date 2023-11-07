@@ -1,4 +1,26 @@
 # README do Projeto de Filmes
+## Tecnologias
+O projeto utiliza as seguintes tecnologias:
+
+React: Uma biblioteca JavaScript para construir interfaces de usuário.
+
+React Router Dom: Uma biblioteca que permite a navegação entre diferentes componentes, alterando o URL do navegador, mantendo a interface do usuário sincronizada com o URL.
+
+React Icons: Uma biblioteca que inclui uma coleção de ícones acessíveis, utilizáveis e personalizáveis para projetos React.
+
+Vite: Uma ferramenta de construção moderna que oferece uma experiência de desenvolvimento mais rápida e enxuta.
+
+APIs: O projeto utiliza várias APIs para buscar dados sobre filmes. As URLs dessas APIs são armazenadas como variáveis de ambiente.
+
+CSS: Utilizado para estilizar os componentes da aplicação. Cada componente tem seu próprio arquivo CSS.
+
+## Dependências
+O projeto depende das seguintes bibliotecas:
+
+react: ^18.0.0
+react-dom: ^18.0.0
+react-icons: ^4.4.0
+react-router-dom: ^6.3.0
 
 ## Descrição
 
